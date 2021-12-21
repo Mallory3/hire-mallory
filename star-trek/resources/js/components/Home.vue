@@ -88,7 +88,7 @@
               </div>
 
               <p>
-                My experience and educational background has taught me my greatest strength, <strong>how to learn.</strong> I continously inspire to write <span class="underline decoration-dotted">dryer code</span>, discover mind altering new solutions to problems &#129327; and advance alongisde the technical industry. I am excited to continue my journey with growing company's that value team work, mentorship and agile software development. Check out my <router-link class="text-coral" :to="{ name: 'resume' }">resume</router-link> to learn more.
+                My experience and educational background has taught me my greatest strength, <strong>how to learn.</strong> I continously inspire to write <span class="underline decoration-dotted">dryer code</span>, discover mind altering new solutions to problems &#129327; and advance alongisde the technical industry. I am excited to continue my journey with growing company's that value team work, mentorship and agile software development. Check out my <router-link class="text-coral" :to="{ name: 'resume' }">resume</router-link> to learn more about me.
               </p>
               <div class="flex items-center mb-5 mt-10">
                 <img
