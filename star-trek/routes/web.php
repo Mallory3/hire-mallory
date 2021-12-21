@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactUsFormController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,7 +14,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//Add {any?} as an optional wildcard so it responds to any route
+//Add {any?} as an optional wildcard so it responds to any route where any is literally anything
 Route::get('/{any?}', function () {
-    return view('welcome');
-});
+    return view('app');
+})->where('any', '.*');
+
+//Routes for Contact Form
+Route::get('/contact', [ContactUsFormController::class, 'createForm']);
+Route::post('/contact', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
+
+Route::get('/', [ContactUsFormController::class, 'createForm']);
+Route::post('/', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
+
+Route::get('/resume', [ContactUsFormController::class, 'createForm']);
+Route::post('/resume', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
+
