@@ -112,7 +112,7 @@
             <div
               class="col-span-3 flex justify-end"
             >
-              <span class="font-bold text-white py-3 px-6 rounded button-green"
+              <span class="font-bold text-white py-3 px-6 rounded button-green bg-green-500"
                 ><router-link :to="{ name: 'resume' }"
                   >My Resume &rarr;</router-link
                 ></span
@@ -226,7 +226,7 @@
               <div class="flex justify-center">
                 <a
                   target="_blank"
-                  class="font-bold text-white py-3 px-10 rounded button-green"
+                  class="font-bold text-white py-3 px-10 rounded button-green bg-green-500"
                   :href="project.url"
                   >View &rarr;</a
                 >

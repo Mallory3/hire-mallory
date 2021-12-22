@@ -12,15 +12,13 @@
       </button>
     </div>
     <div
-      data-aos="flip-left"
-      data-aos-easing="ease-out-cubic"
+      data-aos="zoom-out-up"
       data-aos-duration="2000"
       style="z-index: 100"
       class="hidden sm:block max-w-5xl m-auto sm:mb-40"
     >
       <img class="min-h-content" src="/images/resume.png" alt="resume" />
     </div>
-    <div class="h-5 ms:h-10"></div>
   </div>
 </template>
 
