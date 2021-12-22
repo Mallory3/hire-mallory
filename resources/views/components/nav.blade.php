@@ -4,10 +4,10 @@
             <div class="md:flex justify-between items-center">
                 <!-- left section -->
                 <div class="flex justify-between items-center">
-                    <a target="_blank" href="https://www.linkedin.com/in/mallory-zlomanchuk/"><img class="h-6 min-h-fit lg:h-12 m-auto" src="/images/icons/linkedin.svg" alt=""></a>
-                    <a target="_blank" href="https://github.com/Mallory3" class="sm:ml-3 hidden sm:block"><img class="h-6 min-h-fit lg:h-12 m-auto" src="/images/icons/github.svg" alt=""></a>
-                    <a href="sms:+14038184164" class="sm:ml-3"><img class="h-6 min-h-fit lg:h-12 m-auto" src="/images/icons/phone.svg" alt=""></a>
-                    <a href="mailto:mzlomanchuk@hotmail.com?Subject=You%20Are%20Hired" class="sm:ml-3"><img class="h-6 min-h-fit lg:h-12 m-auto" src="/images/icons/paper-plane.svg" alt=""></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/mallory-zlomanchuk/"><img class="h-6 lg:h-12 m-auto" src="/images/icons/linkedin.svg" alt=""></a>
+                    <a target="_blank" href="https://github.com/Mallory3" class="sm:ml-3 hidden sm:block"><img class="h-6 lg:h-12 m-auto" src="/images/icons/github.svg" alt=""></a>
+                    <a href="sms:+14038184164" class="sm:ml-3"><img class="h-6 lg:h-12 m-auto" src="/images/icons/phone.svg" alt=""></a>
+                    <a href="mailto:mzlomanchuk@hotmail.com?Subject=You%20Are%20Hired" class="sm:ml-3"><img class="h-6 lg:h-12 m-auto" src="/images/icons/paper-plane.svg" alt=""></a>
                     <div class="md:hidden">
                         <button type="button" class="text-gray-500 hover:text-gray-600 focus:text-gray-600 focus:outline-none" @click="isOpen = !isOpen">
                             <svg viewBox="0 0 24 24" class="h-8 w-8 fill-white">
