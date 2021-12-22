@@ -11,7 +11,6 @@
         <link href="https://fonts.googleapis.com/css2?family=Rambla:wght@700&display=swap" rel="stylesheet">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
-        <link href="{{ URL::asset('/assets/css/custom.css') }}" rel="stylesheet" type="text/css" >
         <link href="/dist/output.css" rel="stylesheet">
 
     </head>
