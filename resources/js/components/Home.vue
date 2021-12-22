@@ -149,9 +149,6 @@
             to complex problems.
           </blockquote>
           <div
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            data-aos-anchor-placement="center-bottom"
             class="grid grid-cols-3 gap-4 md:grid-cols-6 md:gap-10"
           >
             <div
