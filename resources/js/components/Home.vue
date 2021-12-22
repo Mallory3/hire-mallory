@@ -16,7 +16,7 @@
             <div
               class="content float-left py-4 px-5 my-6 text-left"
             >
-              <div class="heading mb-1 text-2xl md:text-5xl text-header">
+              <div class="heading mb-1 text-xl md:text-5xl text-header">
                 Mallory Zlomanchuk
               </div>
               <div class="text-xl md:text-4xl text-header">Virtual Resume</div>
@@ -307,11 +307,11 @@ import VueScrollSnap from "vue-scroll-snap";
                     name : 'npm',
                 },
                 {
-                    url : '/images/skillsIcons/vscode.png',
+                    url : '/images/skillsIcons/vscode.svg',
                     name : 'VS Code',
                 },
                 {
-                    url : '/images/skillsIcons/android.png',
+                    url : '/images/skillsIcons/android.svg',
                     name : 'Android Studio',
                 },
                 {
