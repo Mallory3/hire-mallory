@@ -1,6 +1,6 @@
 <div id="contactForm">
     <div
-      class="bg-top bg-no-repeat bg-cover"
+      class="bg-top bg-no-repeat bg-cover hidden sm:block"
       style="
         min-height: 75vh;
         height: 78vh;
@@ -9,7 +9,7 @@
     >
       <div
         style="z-index: 1; min-height: 75vh"
-        class="xl:max-w-6xl grid grid-cols-1 m-auto place-items-center"
+        class="hidden sm:block xl:max-w-6xl grid grid-cols-1 m-auto place-items-center"
       >
         <div
           data-aos="flip-left"
@@ -107,6 +107,39 @@
         </div>
       </div>
     </div>
+    <div
+        class="w-screen m-auto h-48 mt-6 bg-white sm:hidden"
+      >
+        <p class="text-base geo text-center m-auto">
+          Made with &#10084;&#65039; by Mallory &copy; 2021
+        </p>
+        <div 
+        data-aos="zoom-in"
+        data-aos-duration="2000"
+        class="flex justify-center flex-row m-auto">
+          <div>
+            <img
+              class="h-8 m-3"
+              src="/images/skillsIcons/vue.svg"
+              alt="vue icon"
+            />
+          </div>
+          <div>
+            <img
+              class="h-8 m-3"
+              src="/images/skillsIcons/laravel.svg"
+              alt="laravel icon"
+            />
+          </div>
+          <div>
+            <img
+              class="h-8 m-3"
+              src="/images/skillsIcons/tailwindcss.svg"
+              alt="tailwindcss icon"
+            />
+          </div>
+        </div>
+      </div>
   </div>
 
 

@@ -25,7 +25,7 @@
                     <!-- <span class="text-white text-sm hover:font-medium md:mx-4"><a href="#" v-scroll-to="'#about'">About</a></span>
                     <span class="text-white text-sm hover:font-medium md:mx-4"><a href="#" v-scroll-to="'#toolbox'">Toolbox</a></span>
                     <span class="text-white text-sm hover:font-medium md:mx-4"><a href="#" v-scroll-to="'#projects'">Projects</a></span> -->
-                    <span class="text-white text-sm hover:font-medium mt-6 md:mt-0 md:mx-4"><router-link :to="{ name: 'contact' }" @click.native="$scrollToTop"><i class="fa fa-paper-plane"></i> Connect</router-link></span>
+                    <span class="text-white text-sm hover:font-medium mt-6 md:mt-0 md:mx-4 hidden sm:block"><router-link :to="{ name: 'contact' }" @click.native="$scrollToTop"><i class="fa fa-paper-plane"></i> Connect</router-link></span>
 
                 </div>
             </div>
