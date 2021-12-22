@@ -3,7 +3,7 @@
     <section class="bg-teal text-white relative">
       <div
         data-aos="zoom-out-up"
-        data-aos-duration="2000"
+        data-aos-duration="1000"
         class="hero-image bg-center bg-no-repeat bg-cover flex"
         style="
           min-height: 90.5vh;
@@ -123,7 +123,7 @@
         </div>
       </section>
 
-      <section class="mt-20 snap-mandatory">
+      <section class="mt-16 snap-mandatory">
         <div id="toolbox" class="xl:max-w-6xl m-auto p-8">
           <div class="mb-10">
             <h2>&#9473;&#9473; Check Out My</h2>
@@ -204,7 +204,7 @@
           </blockquote>
           <blockquote class="text-base font-semibold italic mb-10 lg:hidden">
             I believe we are not defined by what we have done, but what we
-            <span class="text-white bg-coral p-1">dream of&nbsp; accomplishing.</span>
+            <span class="text-white bg-coral p-1">dream&nbsp;&nbsp; of&nbsp;&nbsp; accomplishing.</span>
           </blockquote>
           <div class="grid grid-cols-1 md:grid-cols-2 md:gap-y-10 gap-y-10 gap-x-36">
             <div

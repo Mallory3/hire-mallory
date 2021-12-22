@@ -6141,7 +6141,7 @@ var render = function () {
                   {
                     key: image,
                     staticClass:
-                      "\n              lg:max-h-80\n              max-w-lg\n              py-1\n              px-2\n              sm:p-3\n              rounded-lg\n              shadow\n              sm:shadow-xl\n              xl:hover:scale-105\n              max-h-max \n            ",
+                      "\n              lg:max-h-80\n              max-w-lg\n              py-1\n              px-2\n              sm:p-3\n              rounded-lg\n              shadow-sm\n              sm:shadow-xl\n              xl:hover:scale-105\n              max-h-max \n            ",
                   },
                   [
                     _c("img", {
@@ -6291,7 +6291,7 @@ var staticRenderFns = [
             "max-height": "90.5vh",
             "background-image": "url(/images/Hero.jpeg)",
           },
-          attrs: { "data-aos": "zoom-out-up", "data-aos-duration": "2000" },
+          attrs: { "data-aos": "zoom-out-up", "data-aos-duration": "1000" },
         },
         [
           _c(
@@ -6321,7 +6321,7 @@ var staticRenderFns = [
                         "div",
                         {
                           staticClass:
-                            "heading mb-1 text-xl md:text-5xl text-header",
+                            "heading mb-1 text-2xl md:text-5xl text-header",
                         },
                         [
                           _vm._v(
@@ -6415,7 +6415,7 @@ var staticRenderFns = [
         },
         [
           _vm._v(
-            "\n                CURRENT FOCUS: LARAVEL | VUE.JS | MYSQL\n              "
+            "\n                CURRENT FOCUS: VUE.JS | MYSQL | LARAVEL\n              "
           ),
         ]
       ),
@@ -6521,7 +6521,7 @@ var staticRenderFns = [
           "\n          I believe we are not defined by what we have done, but what we\n          "
         ),
         _c("span", { staticClass: "text-white bg-coral p-1" }, [
-          _vm._v("dream of  accomplishing."),
+          _vm._v("dream   of   accomplishing."),
         ]),
       ]
     )
