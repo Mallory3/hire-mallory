@@ -1,6 +1,6 @@
 <div>
     <nav style="z-index:100" class="bg-black shadow-2xl w-full fixed inset-x-0 bottom-0">
-        <div class="px-6 py-6">
+        <div class="px-7 py-7">
             <div class="md:flex justify-between items-center">
                 <!-- left section -->
                 <div class="flex justify-between items-center">

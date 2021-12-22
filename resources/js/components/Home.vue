@@ -168,7 +168,7 @@
               :key="image"
             >
               <img
-                class="h-12 lg:h-16 min-h-fit m-auto"
+                class="h-12 w-12 lg:w-16 lg:h-16 lg:min-h-16 lg:max-h-16 min-h-12 max-h-12 max-w-fit m-auto"
                 :src="image.url"
                 :alt="image.name"
               />
@@ -205,7 +205,7 @@
             I believe we are not defined by what we have done, but what we
             <span class="text-white bg-coral p-1">dream of&nbsp; accomplishing.</span>
           </blockquote>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-y-20 gap-x-36">
+          <div class="grid grid-cols-1 md:grid-cols-2 md:gap-y-20 gap-y-10 gap-x-36">
             <div
               data-aos="fade-up"
               data-aos-duration="1000"

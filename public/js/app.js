@@ -6144,7 +6144,8 @@ var render = function () {
                   },
                   [
                     _c("img", {
-                      staticClass: "h-12 lg:h-16 min-h-fit m-auto",
+                      staticClass:
+                        "h-12 w-12 lg:w-16 lg:h-16 lg:min-h-16 lg:max-h-16 min-h-12 max-h-12 max-w-fit m-auto",
                       attrs: { src: image.url, alt: image.name },
                     }),
                     _vm._v(" "),
@@ -6519,7 +6520,7 @@ var staticRenderFns = [
           "\n          I believe we are not defined by what we have done, but what we\n          "
         ),
         _c("span", { staticClass: "text-white bg-coral p-1" }, [
-          _vm._v("dream of accomplishing."),
+          _vm._v("dream of  accomplishing."),
         ]),
       ]
     )
