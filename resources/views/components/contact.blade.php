@@ -1,4 +1,4 @@
-<div id="contactForm invisible md:visible">
+<div id="contactForm hidden md:visible">
     <div
       class="bg-top bg-no-repeat bg-cover"
       style="
@@ -107,40 +107,4 @@
         </div>
       </div>
     </div>
-    <div
-        class="w-screen m-auto h-48 mt-6 bg-white sm:hidden"
-      >
-        <p class="text-base geo text-center mt-4">
-          Made with &#10084;&#65039; by Mallory &copy; 2021
-        </p>
-        <div 
-        data-aos="zoom-in"
-        data-aos-duration="2000"
-        class="flex justify-center flex-row m-auto">
-          <div>
-            <img
-              class="h-8 m-3"
-              src="/images/skillsIcons/vue.svg"
-              alt="vue icon"
-            />
-          </div>
-          <div>
-            <img
-              class="h-8 m-3"
-              src="/images/skillsIcons/laravel.svg"
-              alt="laravel icon"
-            />
-          </div>
-          <div>
-            <img
-              class="h-8 m-3"
-              src="/images/skillsIcons/tailwindcss.svg"
-              alt="tailwindcss icon"
-            />
-          </div>
-        </div>
-      </div>
-  </div>
-
-
-
+    

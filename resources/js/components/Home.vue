@@ -14,7 +14,7 @@
         <div class="relative container mx-auto p-4 flex items-start z-10">
           <div data-aos="zoom-out-down" data-aos-duration="2000">
             <div
-              class="content float-left py-4 px-5 my-6 text-left"
+              class="content float-left py-4 px-5 my-6 sm:my-4 md:my-6 text-left"
             >
               <div class="heading mb-1 text-2xl md:text-5xl text-header">
                 Mallory Zlomanchuk
@@ -159,8 +159,7 @@
                 px-2
                 sm:p-3
                 rounded-lg
-                shadow-sm
-                sm:shadow-xl
+                md:shadow-xl
                 xl:hover:scale-105
                 max-h-max 
               "
@@ -243,7 +242,7 @@
     <div
         class="w-screen m-auto h-48 mt-6 bg-white visible md:invisible"
       >
-        <hr class="md:hidden text-gray-500 color-gray-500 mt-2 mb-2">
+        <hr class="md:hidden text-gray-300 mt-2 mb-2">
         <p class="text-base geo text-center mt-2">
           Made with &#10084;&#65039; by Mallory &copy; 2021
         </p>
