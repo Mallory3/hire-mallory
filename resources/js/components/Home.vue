@@ -71,6 +71,7 @@
             >
               <div>
                 <h1
+                  style="color: rgb(241,82,46)"
                   class="text-2xl md:text-3xl lg:text-4x text-coral font-semibold"
                 >
                   Hi, I'm Mallory.
@@ -88,7 +89,7 @@
               </div>
 
               <p>
-                My experience and educational background has taught me my greatest strength, <strong>how to learn.</strong> I continously inspire to write <span class="underline decoration-dotted">dryer code</span>, discover mind altering new solutions to problems &#129327; and advance alongisde the technical industry. I am excited to continue my journey with growing company's that value team work, mentorship and agile software development. Check out my <router-link class="text-coral" :to="{ name: 'resume' }">resume</router-link> to learn more about me.
+                My experience and educational background has taught me my greatest strength, <strong>how to learn.</strong> I continously inspire to write <span class="underline decoration-dotted">dryer code</span>, discover mind altering new solutions to problems &#129327; and advance alongisde the technical industry. I am excited to continue my journey with growing company's that value team work, mentorship and agile software development. Check out my <router-link style="color: rgb(241,82,46)" class="text-coral" :to="{ name: 'resume' }">resume</router-link> to learn more about me.
               </p>
               <div class="flex items-center mb-5 mt-10">
                 <img
@@ -97,6 +98,7 @@
                   alt="brain icon"
                 />
                 <h2
+                  style="color: rgb(241,82,46)"
                   class="
                     text-sm
                     xl:text-base
@@ -112,7 +114,7 @@
             <div
               class="col-span-3 flex justify-end"
             >
-              <span class="font-bold text-white py-3 px-6 rounded button-green bg-green-500"
+              <span style="background-color: rgb(96,175,65) !important;" class="font-bold text-white py-3 px-6 rounded button-green"
                 ><router-link :to="{ name: 'resume' }"
                   >My Resume &rarr;</router-link
                 ></span
@@ -135,6 +137,7 @@
             find&nbsp;
             <span class="relative">
               <span
+                style="background-color: rgb(241,82,46)"
                 class="block absolute -inset-1 -skew-y-2 bg-coral"
                 aria-hidden="true"
               ></span>
@@ -192,6 +195,7 @@
             I believe we are not defined by what we have done, but what we
             <span class="relative">
               <span
+                style="background-color: rgb(241,82,46)"
                 class="block absolute -inset-1 -skew-y-2 bg-coral"
                 aria-hidden="true"
               ></span>
@@ -200,7 +204,7 @@
           </blockquote>
           <blockquote class="text-base font-semibold italic mb-10 lg:hidden">
             I believe we are not defined by what we have done, but what we
-            <span class="text-white bg-coral p-1">dream of accomplishing.</span>
+            <span style="color: rgb(241,82,46)" class="text-white bg-coral p-1">dream of accomplishing.</span>
           </blockquote>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-y-20 gap-x-36">
             <div
@@ -226,7 +230,8 @@
               <div class="flex justify-center">
                 <a
                   target="_blank"
-                  class="font-bold text-white py-3 px-10 rounded button-green bg-green-500"
+                  style="background-color: rgb(96,175,65) !important;"
+                  class="font-bold text-white py-3 px-10 rounded button-green"
                   :href="project.url"
                   >View &rarr;</a
                 >
