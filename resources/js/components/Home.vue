@@ -26,7 +26,7 @@
       </div>
     </section>
 
-    <div class="bg-white md:mt-20 mb-20">
+    <div class="bg-white md:mt-20">
       <section>
         <div
           style="z-index: 100"
@@ -122,7 +122,7 @@
         </div>
       </section>
 
-      <section class="mt-16 snap-mandatory">
+      <section class="mt-16">
         <div id="toolbox" class="xl:max-w-6xl m-auto p-8">
           <div class="mb-10">
             <h2>&#9473;&#9473; Check Out My</h2>
@@ -204,19 +204,18 @@
             I believe we are not defined by what we have done, but what we
             <span class="text-white bg-coral p-1">dream of&nbsp; accomplishing.</span>
           </blockquote>
-          <div class="grid grid-cols-1 md:grid-cols-2 md:gap-y-10 gap-y-10 gap-x-36">
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-y-10 gap-x-36">
             <div
               data-aos="fade-up"
               data-aos-duration="1000"
               data-aos-anchor-placement="center-bottom"
-              class="h-full"
               v-for="project in projects"
               :key="project"
             >
               <img class="" :src="project.image" alt="" />
               <!-- <span><p class="text-center text-xs xl:text-lg text-bold mt-2">{{ project.name }}</p></span> -->
               <div>
-                <p class="text-sm text-justify xl:text-base text-bold mt-2">
+                <p class="text-sm text-justify lg:text-base text-bold mt-2">
                   {{ project.description }}
                 </p>
               </div>
