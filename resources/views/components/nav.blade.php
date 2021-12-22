@@ -1,16 +1,16 @@
 <div>
     <nav style="z-index:100" class="bg-black shadow-2xl w-full fixed inset-x-0 bottom-0">
-        <div class="px-6 py-6">
+        <div class="px-2 py-2 sm:px-6 sm:py-6">
             <div class="md:flex justify-between items-center">
                 <!-- left section -->
                 <div class="flex justify-between items-center">
-                    <a target="_blank" href="https://www.linkedin.com/in/mallory-zlomanchuk/"><img class="h-8 min-h-fit lg:h-12 m-auto" src="/images/icons/linkedin.svg" alt=""></a>
-                    <a target="_blank" href="https://github.com/Mallory3" class="ml-3"><img class="h-8 min-h-fit lg:h-12 m-auto" src="/images/icons/github.svg" alt=""></a>
-                    <a href="sms:+14038184164" class="ml-3"><img class="h-8 min-h-fit lg:h-12 m-auto" src="/images/icons/phone.svg" alt=""></a>
-                    <a href="mailto:mzlomanchuk@hotmail.com?Subject=You%20Are%20Hired" class="ml-3 text-white text-xs"><img class="h-8 min-h-fit lg:h-12 m-auto" src="/images/icons/paper-plane.svg" alt=""></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/mallory-zlomanchuk/"><img class="h-6 min-h-fit lg:h-12 m-auto" src="/images/icons/linkedin.svg" alt=""></a>
+                    <a target="_blank" href="https://github.com/Mallory3" class="sm:ml-3 hidden sm:block"><img class="h-6 min-h-fit lg:h-12 m-auto" src="/images/icons/github.svg" alt=""></a>
+                    <a href="sms:+14038184164" class="sm:ml-3"><img class="h-6 min-h-fit lg:h-12 m-auto" src="/images/icons/phone.svg" alt=""></a>
+                    <a href="mailto:mzlomanchuk@hotmail.com?Subject=You%20Are%20Hired" class="sm:ml-3"><img class="h-6 min-h-fit lg:h-12 m-auto" src="/images/icons/paper-plane.svg" alt=""></a>
                     <div class="md:hidden">
                         <button type="button" class="text-gray-500 hover:text-gray-600 focus:text-gray-600 focus:outline-none" @click="isOpen = !isOpen">
-                            <svg viewBox="0 0 24 24" class="h-8 w-8 fill-current">
+                            <svg viewBox="0 0 24 24" class="h-8 w-8 fill-white">
                                 <path d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"></path>
                             </svg>  
                         </button>

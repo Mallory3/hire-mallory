@@ -145,7 +145,7 @@
           <blockquote class="text-base font-semibold italic mb-20 lg:hidden">
             My mental dedication and obsessive attention to detail enables me to
             find
-            <span class="text-white bg-coral p-1">creative solutions</span>
+            <span class="text-white bg-red-600 p-1">creative solutions</span>
             to complex problems.
           </blockquote>
           <div
@@ -153,7 +153,6 @@
           >
             <div
               class="
-                h-full
                 lg:max-h-80
                 max-w-lg
                 py-1
