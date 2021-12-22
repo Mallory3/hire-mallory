@@ -1,6 +1,6 @@
-<div id="contactForm">
+<div id="contactForm invisible md:visible">
     <div
-      class="bg-top bg-no-repeat bg-cover hidden sm:block"
+      class="bg-top bg-no-repeat bg-cover"
       style="
         min-height: 75vh;
         height: 78vh;

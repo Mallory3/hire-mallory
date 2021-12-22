@@ -20,7 +20,7 @@
                 <div class="flex-col mt-3 mb-3 md:flex-row md:mt-0 md:flex" :class="isOpen? 'flex' : 'hidden'">
                     <hr class="md:hidden text-white color-white mt-2 mb-2">
                     <!-- Add router links (available because we pulled in VueRouter in app.js and added router: new VueRouter(routes) Note: Cannot to standard <a></a> tag as we do not want to reload the page -->
-                    <span class="text-white text-sm hover:font-medium mt-6 md:mt-0 md:mx-4"><router-link to="/" exact @click.native="$scrollToTop"><i class="fas fa-user"></i> Home</router-link></span>
+                    <span class="text-white text-sm hover:font-medium mt-6 md:mt-0 md:mx-4"><router-link to="/" exact @click.native="$scrollToTop"><i class="fa fa-user"></i> Profile</router-link></span>
                     <span class="text-white text-sm hover:font-medium mt-6 md:mt-0 md:mx-4"><router-link :to="{ name: 'resume' }" @click.native="$scrollToTop"><i class="fa fa-file"></i> Resume</router-link></span>
                     <!-- <span class="text-white text-sm hover:font-medium md:mx-4"><a href="#" v-scroll-to="'#about'">About</a></span>
                     <span class="text-white text-sm hover:font-medium md:mx-4"><a href="#" v-scroll-to="'#toolbox'">Toolbox</a></span>
