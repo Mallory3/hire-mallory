@@ -9,7 +9,7 @@
     >
       <div
         style="z-index: 1; min-height: 75vh"
-        class="hidden sm:block xl:max-w-6xl grid grid-cols-1 m-auto place-items-center"
+        class="hidden sm:grid xl:max-w-6xl grid grid-cols-1 m-auto place-items-center"
       >
         <div
           data-aos="flip-left"
