@@ -1,4 +1,4 @@
-<div id="contactForm" class="invisible md:visible">
+<div id="contactForm" class="hidden md:flex">
     <div
       class="bg-top bg-no-repeat bg-cover"
       style="
