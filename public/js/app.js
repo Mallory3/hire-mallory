@@ -2393,10 +2393,10 @@ __webpack_require__.r(__webpack_exports__);
         url: '/images/skillsIcons/npm.svg',
         name: 'npm'
       }, {
-        url: '/images/skillsIcons/vscode.png',
+        url: '/images/skillsIcons/vscode.svg',
         name: 'VS Code'
       }, {
-        url: '/images/skillsIcons/android.png',
+        url: '/images/skillsIcons/android.svg',
         name: 'Android Studio'
       }, {
         url: '/images/skillsIcons/adobe.png',
@@ -6628,7 +6628,7 @@ var staticRenderFns = [
     return _c(
       "div",
       {
-        staticClass: "max-w-5xl m-auto mb-20 px-2",
+        staticClass: "max-w-5xl m-auto mb-20 xl:mb-40 px-2",
         staticStyle: { "z-index": "100" },
         attrs: { "data-aos": "zoom-out-up", "data-aos-duration": "1000" },
       },
