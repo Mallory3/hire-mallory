@@ -16,7 +16,7 @@
             <div
               class="content float-left py-4 px-5 my-6 text-left"
             >
-              <div class="heading mb-1 text-xl md:text-5xl text-header">
+              <div class="heading mb-1 text-2xl md:text-5xl text-header">
                 Mallory Zlomanchuk
               </div>
               <div class="text-xl md:text-4xl text-header">Virtual Resume</div>
@@ -106,7 +106,7 @@
                     text-coral
                   "
                 >
-                  CURRENT FOCUS: LARAVEL | VUE.JS | MYSQL
+                  CURRENT FOCUS: VUE.JS | MYSQL | LARAVEL
                 </h2>
               </div>
             </div>
@@ -160,7 +160,7 @@
                 px-2
                 sm:p-3
                 rounded-lg
-                shadow
+                shadow-sm
                 sm:shadow-xl
                 xl:hover:scale-105
                 max-h-max 
