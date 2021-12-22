@@ -16,10 +16,10 @@
             <div
               class="content float-left py-4 px-5 my-6 text-left"
             >
-              <div class="heading mb-1 text-3xl md:text-5xl text-header">
+              <div class="heading mb-1 text-2xl md:text-5xl text-header">
                 Mallory Zlomanchuk
               </div>
-              <div class="text-2xl md:text-4xl text-header">Virtual Resume</div>
+              <div class="text-xl md:text-4xl text-header">Virtual Resume</div>
             </div>
           </div>
         </div>
@@ -160,7 +160,8 @@
                 px-2
                 sm:p-3
                 rounded-lg
-                shadow-xl
+                shadow
+                sm:shadow-xl
                 xl:hover:scale-105
                 max-h-max 
               "
@@ -168,7 +169,7 @@
               :key="image"
             >
               <img
-                class="h-12 w-12 lg:w-16 lg:h-16 lg:min-h-16 lg:max-h-16 min-h-12 max-h-12 max-w-fit m-auto"
+                class="h-12 w-12 lg:w-16 lg:h-16 lg:min-h-16 lg:max-h-16 m-auto"
                 :src="image.url"
                 :alt="image.name"
               />
@@ -205,7 +206,7 @@
             I believe we are not defined by what we have done, but what we
             <span class="text-white bg-coral p-1">dream of&nbsp; accomplishing.</span>
           </blockquote>
-          <div class="grid grid-cols-1 md:grid-cols-2 md:gap-y-20 gap-y-10 gap-x-36">
+          <div class="grid grid-cols-1 md:grid-cols-2 md:gap-y-10 gap-y-10 gap-x-36">
             <div
               data-aos="fade-up"
               data-aos-duration="1000"

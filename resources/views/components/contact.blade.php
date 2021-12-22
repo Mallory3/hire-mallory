@@ -110,7 +110,7 @@
     <div
         class="w-screen m-auto h-48 mt-6 bg-white sm:hidden"
       >
-        <p class="text-base geo text-center m-auto">
+        <p class="text-base geo text-center m-auto mt-2">
           Made with &#10084;&#65039; by Mallory &copy; 2021
         </p>
         <div 
