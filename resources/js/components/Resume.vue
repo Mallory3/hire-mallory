@@ -13,9 +13,15 @@
     </div>
     <div
       style="z-index: 100"
-      class="max-w-5xl m-auto mb-20 xl:mb-40 px-2"
+      class="max-w-5xl m-auto mb-40 px-2"
     >
-      <img class="min-h-content" src="/images/resume.png" alt="resume" />
+      <img 
+      data-aos="zoom-out-up"
+      data-aos-duration="1000"
+      class="min-h-content" 
+      src="/images/resume.png" 
+      alt="resume" 
+      />
     </div>
   </div>
 </template>
