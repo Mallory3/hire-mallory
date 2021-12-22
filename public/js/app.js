@@ -6189,7 +6189,7 @@ var render = function () {
               "div",
               {
                 staticClass:
-                  "grid grid-cols-1 md:grid-cols-2 gap-y-20 gap-x-36",
+                  "grid grid-cols-1 md:grid-cols-2 md:gap-y-10 gap-y-10 gap-x-36",
               },
               _vm._l(_vm.projects, function (project) {
                 return _c(
@@ -6627,9 +6627,9 @@ var staticRenderFns = [
     return _c(
       "div",
       {
-        staticClass: "max-w-5xl m-auto sm:mb-40",
+        staticClass: "max-w-5xl m-auto mb-40 px-4",
         staticStyle: { "z-index": "100" },
-        attrs: { "data-aos": "zoom-out-up", "data-aos-duration": "2000" },
+        attrs: { "data-aos": "zoom-out-up", "data-aos-duration": "1000" },
       },
       [
         _c("img", {

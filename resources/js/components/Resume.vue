@@ -13,9 +13,9 @@
     </div>
     <div
       data-aos="zoom-out-up"
-      data-aos-duration="2000"
+      data-aos-duration="1000"
       style="z-index: 100"
-      class="max-w-5xl m-auto mb-20 sm:mb-40"
+      class="max-w-5xl m-auto mb-40 px-4"
     >
       <img class="min-h-content" src="/images/resume.png" alt="resume" />
     </div>
