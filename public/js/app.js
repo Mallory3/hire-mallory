@@ -6089,7 +6089,7 @@ var render = function () {
                   "div",
                   {
                     staticClass:
-                      "flex flex-wrap items-center col-span-2 p-6 md:mt-0 mt-44",
+                      "flex flex-wrap items-center col-span-2 p-7 md:mt-0 mt-44",
                   },
                   [
                     _vm._m(2),
@@ -6133,7 +6133,7 @@ var render = function () {
                     "span",
                     {
                       staticClass:
-                        "font-bold text-white py-3 px-6 rounded button-green",
+                        "font-bold text-white py-3 px-7 rounded button-green",
                     },
                     [
                       _c("router-link", { attrs: { to: { name: "resume" } } }, [
@@ -6346,7 +6346,7 @@ var staticRenderFns = [
                     "div",
                     {
                       staticClass:
-                        "content float-left py-4 px-5 my-6 sm:my-4 md:my-6 text-left",
+                        "content float-left py-5 px-5 my-6 sm:my-4 md:my-6 text-left",
                     },
                     [
                       _c(
@@ -6415,9 +6415,9 @@ var staticRenderFns = [
           "h2",
           { staticClass: "text-base md:text-lg lg:text-xl font-semibold" },
           [
-            _vm._v(
-              "\n                  Software Developer & Certified Scrum Master\n                "
-            ),
+            _vm._v("\n                  Software Developer & "),
+            _c("br", { staticClass: "md:hidden" }),
+            _vm._v(">Certified Scrum Master\n                "),
           ]
         ),
         _vm._v(" "),
@@ -6447,7 +6447,7 @@ var staticRenderFns = [
         },
         [
           _vm._v(
-            "\n                CURRENT FOCUS: VUE.JS | MYSQL | LARAVEL\n              "
+            "\n                CURRENT FOCUS:  LARAVEL | VUE.JS | MYSQL\n              "
           ),
         ]
       ),

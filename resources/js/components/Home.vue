@@ -14,7 +14,7 @@
         <div class="relative container mx-auto p-4 flex items-start z-10">
           <div data-aos="zoom-out-down" data-aos-duration="2000">
             <div
-              class="content float-left py-4 px-5 my-6 sm:my-4 md:my-6 text-left"
+              class="content float-left py-5 px-5 my-6 sm:my-4 md:my-6 text-left"
             >
               <div class="heading mb-1 text-2xl md:text-5xl text-header">
                 Mallory Zlomanchuk
@@ -66,7 +66,7 @@
               />
             </div>
             <div
-              class="flex flex-wrap items-center col-span-2 p-6 md:mt-0 mt-44"
+              class="flex flex-wrap items-center col-span-2 p-7 md:mt-0 mt-44"
             >
               <div>
                 <h1
@@ -76,7 +76,7 @@
                 </h1>
                 <div class="flex items-center mb-5">
                   <h2 class="text-base md:text-lg lg:text-xl font-semibold">
-                    Software Developer & Certified Scrum Master
+                    Software Developer & <br class="md:hidden">>Certified Scrum Master
                   </h2>
                   <img
                     class="h-16 md:h-12"
@@ -105,14 +105,14 @@
                     text-coral
                   "
                 >
-                  CURRENT FOCUS: VUE.JS | MYSQL | LARAVEL
+                  CURRENT FOCUS:  LARAVEL | VUE.JS | MYSQL
                 </h2>
               </div>
             </div>
             <div
               class="col-span-3 flex justify-end px-6"
             >
-              <span class="font-bold text-white py-3 px-6 rounded button-green"
+              <span class="font-bold text-white py-3 px-7 rounded button-green"
                 ><router-link :to="{ name: 'resume' }"
                   >My Resume &rarr;</router-link
                 ></span
