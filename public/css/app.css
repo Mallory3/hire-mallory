@@ -362,6 +362,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .visible {
   visibility: visible;
 }
+.invisible {
+  visibility: hidden;
+}
 .fixed {
   position: fixed;
 }
@@ -636,6 +639,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .p-4 {
   padding: 1rem;
 }
+.p-6 {
+  padding: 1.5rem;
+}
 .p-8 {
   padding: 2rem;
 }
@@ -644,9 +650,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 .p-3 {
   padding: 0.75rem;
-}
-.p-6 {
-  padding: 1.5rem;
 }
 .p-2 {
   padding: 0.5rem;
@@ -659,13 +662,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
-.py-3 {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-}
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
+}
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 .py-1 {
   padding-top: 0.25rem;

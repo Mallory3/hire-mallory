@@ -1,4 +1,4 @@
-<div id="contactForm hidden md:visible">
+<div id="contactForm" class="invisible md:visible">
     <div
       class="bg-top bg-no-repeat bg-cover"
       style="
