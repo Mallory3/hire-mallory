@@ -2346,6 +2346,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   components: {
@@ -2762,7 +2763,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=Geo&family=Open+Sans:wght@800&display=swap);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* FONTS */\n.geo {\n    font-family: 'Geo', sans-serif;\n}\n.text-header {\n    font-family: 'Open Sans', sans-serif;\n}\n  /* THEME */\n.router-link-exact-active {\n    color: rgb(96,175,65);\n}\n.button-green {\n    background-color: rgb(96,175,65) !important;\n}\n:hover.button-green {\n    background-image: linear-gradient(to right, rgb(96,175,65), rgb(86, 206, 38));\n}\n.text-coral {\n      color: rgb(241,82,46);\n}\n.bg-coral {\n      background-color: rgb(241,82,46);\n}\n.bg-coral-grad {\n    background-color: rgb(241,82,46);\n    background: linear-gradient(90deg, rgba(241,82,46,1) 0%, rgba(250,48,0,1) 100%);\n}\n.bg-teal {\n    background-color: rgb(29,72,79);\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* FONTS */\n.geo {\n    font-family: 'Geo', sans-serif;\n}\n.text-header {\n    font-family: 'Open Sans', sans-serif;\n}\n  /* THEME */\n.router-link-exact-active {\n    color: rgb(96,175,65);\n}\n.button-green {\n    background-color: rgb(96,175,65) !important;\n}\n:hover.button-green {\n    background-image: linear-gradient(to right, rgb(96,175,65), rgb(86, 206, 38));\n}\n.text-coral {\n      color: rgb(241,82,46);\n}\n.bg-coral {\n      background-color: rgb(241,82,46);\n}\n.bg-coral-grad {\n    background-color: rgb(241,82,46);\n    background: linear-gradient(90deg, rgba(241,82,46,1) 0%, rgba(250,48,0,1) 100%);\n}\n.bg-teal {\n    background-color: rgb(29,72,79);\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -6140,12 +6141,12 @@ var render = function () {
                   {
                     key: image,
                     staticClass:
-                      "\n              lg:max-h-80\n              max-w-lg\n              py-1\n              px-2\n              sm:p-3\n              rounded-lg\n              shadow-xl\n              xl:hover:scale-105\n              max-h-max \n            ",
+                      "\n              lg:max-h-80\n              max-w-lg\n              py-1\n              px-2\n              sm:p-3\n              rounded-lg\n              shadow\n              sm:shadow-xl\n              xl:hover:scale-105\n              max-h-max \n            ",
                   },
                   [
                     _c("img", {
                       staticClass:
-                        "h-12 w-12 lg:w-16 lg:h-16 lg:min-h-16 lg:max-h-16 min-h-12 max-h-12 max-w-fit m-auto",
+                        "h-12 w-12 lg:w-16 lg:h-16 lg:min-h-16 lg:max-h-16 m-auto",
                       attrs: { src: image.url, alt: image.name },
                     }),
                     _vm._v(" "),
@@ -6320,7 +6321,7 @@ var staticRenderFns = [
                         "div",
                         {
                           staticClass:
-                            "heading mb-1 text-3xl md:text-5xl text-header",
+                            "heading mb-1 text-xl md:text-5xl text-header",
                         },
                         [
                           _vm._v(
@@ -6331,7 +6332,7 @@ var staticRenderFns = [
                       _vm._v(" "),
                       _c(
                         "div",
-                        { staticClass: "text-2xl md:text-4xl text-header" },
+                        { staticClass: "text-xl md:text-4xl text-header" },
                         [_vm._v("Virtual Resume")]
                       ),
                     ]
@@ -6627,7 +6628,7 @@ var staticRenderFns = [
     return _c(
       "div",
       {
-        staticClass: "max-w-5xl m-auto mb-40 px-4",
+        staticClass: "max-w-5xl m-auto mb-20 px-2",
         staticStyle: { "z-index": "100" },
         attrs: { "data-aos": "zoom-out-up", "data-aos-duration": "1000" },
       },
