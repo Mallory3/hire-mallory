@@ -66,7 +66,7 @@
               />
             </div>
             <div
-              class="flex flex-wrap items-center col-span-2 p-4 md:mt-0 mt-44"
+              class="flex flex-wrap items-center col-span-2 p-6 md:mt-0 mt-44"
             >
               <div>
                 <h1
@@ -110,7 +110,7 @@
               </div>
             </div>
             <div
-              class="col-span-3 flex justify-end"
+              class="col-span-3 flex justify-end px-6"
             >
               <span class="font-bold text-white py-3 px-6 rounded button-green"
                 ><router-link :to="{ name: 'resume' }"

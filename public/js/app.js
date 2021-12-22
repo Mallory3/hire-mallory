@@ -6089,7 +6089,7 @@ var render = function () {
                   "div",
                   {
                     staticClass:
-                      "flex flex-wrap items-center col-span-2 p-4 md:mt-0 mt-44",
+                      "flex flex-wrap items-center col-span-2 p-6 md:mt-0 mt-44",
                   },
                   [
                     _vm._m(2),
@@ -6128,7 +6128,7 @@ var render = function () {
                   ]
                 ),
                 _vm._v(" "),
-                _c("div", { staticClass: "col-span-3 flex justify-end" }, [
+                _c("div", { staticClass: "col-span-3 flex justify-end px-6" }, [
                   _c(
                     "span",
                     {
