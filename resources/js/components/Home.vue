@@ -204,7 +204,7 @@
           </blockquote>
           <blockquote class="text-base font-semibold italic mb-10 lg:hidden">
             I believe we are not defined by what we have done, but what we
-            <span class="text-white bg-coral p-1">dream&nbsp;&nbsp; of&nbsp;&nbsp; accomplishing.</span>
+            <span class="text-white bg-coral p-1">dream of&nbsp; accomplishing.</span>
           </blockquote>
           <div class="grid grid-cols-1 md:grid-cols-2 md:gap-y-10 gap-y-10 gap-x-36">
             <div

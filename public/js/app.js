@@ -2546,8 +2546,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   methods: {
@@ -2813,7 +2811,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=Geo&family=Open+Sans:wght@800&display=swap);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* FONTS */\n.geo {\n    font-family: 'Geo', sans-serif;\n}\n.text-header {\n    font-family: 'Open Sans', sans-serif;\n}\n/* THEME */\n.router-link-exact-active {\n    color: rgb(96,175,65);\n}\n.button-green {\n    background-color: rgb(96,175,65) !important;\n}\n:hover.button-green {\n    background-image: linear-gradient(to right, rgb(96,175,65), rgb(86, 206, 38));\n}\n.text-coral {\n      color: rgb(241,82,46);\n}\n.bg-coral {\n      background-color: rgb(241,82,46);\n}\n.bg-coral-grad {\n    background-color: rgb(241,82,46);\n    background: linear-gradient(90deg, rgba(241,82,46,1) 0%, rgba(250,48,0,1) 100%);\n}\n.bg-teal {\n    background-color: rgb(29,72,79);\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* FONTS */\n.geo {\n    font-family: 'Geo', sans-serif;\n}\n.text-header {\n    font-family: 'Open Sans', sans-serif;\n}\n/* THEME */\n.router-link-exact-active {\n    color: rgb(96,175,65);\n}\n.button-green {\n    background-color: rgb(96,175,65) !important;\n}\n:hover.button-green {\n    background-image: linear-gradient(to right, rgb(96,175,65), rgb(86, 206, 38));\n}\n.text-coral {\n      color: rgb(241,82,46);\n}\n.bg-coral {\n      background-color: rgb(241,82,46);\n}\n.bg-coral-grad {\n    background-color: rgb(241,82,46);\n    background: linear-gradient(90deg, rgba(241,82,46,1) 0%, rgba(250,48,0,1) 100%);\n}\n.bg-teal {\n    background-color: rgb(29,72,79);\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -6119,7 +6117,7 @@ var render = function () {
         ),
       ]),
       _vm._v(" "),
-      _c("section", { staticClass: "mt-20 snap-mandatory" }, [
+      _c("section", { staticClass: "mt-16 snap-mandatory" }, [
         _c(
           "div",
           { staticClass: "xl:max-w-6xl m-auto p-8", attrs: { id: "toolbox" } },
@@ -6521,7 +6519,7 @@ var staticRenderFns = [
           "\n          I believe we are not defined by what we have done, but what we\n          "
         ),
         _c("span", { staticClass: "text-white bg-coral p-1" }, [
-          _vm._v("dream   of   accomplishing."),
+          _vm._v("dream of  accomplishing."),
         ]),
       ]
     )
@@ -6630,7 +6628,6 @@ var staticRenderFns = [
       {
         staticClass: "max-w-5xl m-auto mb-20 xl:mb-40 px-2",
         staticStyle: { "z-index": "100" },
-        attrs: { "data-aos": "zoom-out-up", "data-aos-duration": "1000" },
       },
       [
         _c("img", {
