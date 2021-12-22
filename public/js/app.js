@@ -5878,7 +5878,7 @@ var render = function () {
                           },
                           [_vm._v("resume")]
                         ),
-                        _vm._v(" to learn more.\n            "),
+                        _vm._v(" to learn more about me.\n            "),
                       ],
                       1
                     ),
