@@ -14,7 +14,7 @@
         <div class="relative container mx-auto p-4 flex items-start z-10">
           <div data-aos="zoom-out-down" data-aos-duration="2000">
             <div
-              class="content float-left py-4 px-5 my-6 text-center sm:text-left"
+              class="content float-left py-4 px-5 my-6 text-left"
             >
               <div class="heading mb-1 text-3xl md:text-5xl text-header">
                 Mallory Zlomanchuk
@@ -71,7 +71,6 @@
             >
               <div>
                 <h1
-                  style="color: rgb(241,82,46)"
                   class="text-2xl md:text-3xl lg:text-4x text-coral font-semibold"
                 >
                   Hi, I'm Mallory.
@@ -89,7 +88,7 @@
               </div>
 
               <p>
-                My experience and educational background has taught me my greatest strength, <strong>how to learn.</strong> I continously inspire to write <span class="underline decoration-dotted">dryer code</span>, discover mind altering new solutions to problems &#129327; and advance alongisde the technical industry. I am excited to continue my journey with growing company's that value team work, mentorship and agile software development. Check out my <router-link style="color: rgb(241,82,46)" class="text-coral" :to="{ name: 'resume' }">resume</router-link> to learn more about me.
+                My experience and educational background has taught me my greatest strength, <strong>how to learn.</strong> I continuously inspire to write <span class="underline decoration-dotted">dryer code</span>, discover mind altering new solutions to problems &#129327; and advance alongside the technical industry. I am excited to continue my journey with growing company's that value team work, mentorship and agile software development. Check out my <router-link style="color: rgb(241,82,46)" class="text-coral" :to="{ name: 'resume' }">resume</router-link> to learn more about me.
               </p>
               <div class="flex items-center mb-5 mt-10">
                 <img
@@ -114,7 +113,7 @@
             <div
               class="col-span-3 flex justify-end"
             >
-              <span style="background-color: rgb(96,175,65) !important;" class="font-bold text-white py-3 px-6 rounded button-green"
+              <span class="font-bold text-white py-3 px-6 rounded button-green"
                 ><router-link :to="{ name: 'resume' }"
                   >My Resume &rarr;</router-link
                 ></span
@@ -137,7 +136,6 @@
             find&nbsp;
             <span class="relative">
               <span
-                style="background-color: rgb(241,82,46)"
                 class="block absolute -inset-1 -skew-y-2 bg-coral"
                 aria-hidden="true"
               ></span>
@@ -148,7 +146,7 @@
           <blockquote class="text-base font-semibold italic mb-20 lg:hidden">
             My mental dedication and obsessive attention to detail enables me to
             find
-            <span class="text-white bg-red-600 p-1">creative solutions</span>
+            <span class="text-white p-1 bg-coral">creative solutions</span>
             to complex problems.
           </blockquote>
           <div
@@ -164,6 +162,7 @@
                 rounded-lg
                 shadow-xl
                 xl:hover:scale-105
+                max-h-max 
               "
               v-for="image in images"
               :key="image"
@@ -204,7 +203,7 @@
           </blockquote>
           <blockquote class="text-base font-semibold italic mb-10 lg:hidden">
             I believe we are not defined by what we have done, but what we
-            <span style="color: rgb(241,82,46)" class="text-white bg-coral p-1">dream of accomplishing.</span>
+            <span class="text-white bg-coral p-1">dream of&nbsp; accomplishing.</span>
           </blockquote>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-y-20 gap-x-36">
             <div

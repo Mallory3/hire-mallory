@@ -2342,6 +2342,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   components: {
@@ -2758,7 +2762,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=Geo&family=Open+Sans:wght@800&display=swap);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* FONTS */\n.geo {\n    font-family: 'Geo', sans-serif;\n}\n.text-header {\n    font-family: 'Open Sans', sans-serif;\n}\n  /* THEME */\n.router-link-exact-active {\n    color: rgb(96,175,65);\n}\n.button-green {\n    background-color: rgb(96,175,65) !important;\n}\n:hover.button-green {\n    background-image: linear-gradient(to right, rgb(96,175,65), rgb(86, 206, 38));\n}\n.text-coral {\n      color: rgb(241,82,46);\n}\n.bg-coral {\n      background-color: rgb(241,82,46);\n}\n.bg-coral-grad {\n    background-color: rgb(241,82,46);\n    background: linear-gradient(90deg, rgba(241,82,46,1) 0%, rgba(250,48,0,1) 100%);\n}\n.bg-teal {\n    background-color: rgb(29,72,79);\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* FONTS */\n.geo {\n    font-family: 'Geo', sans-serif;\n}\n.text-header {\n    font-family: 'Open Sans', sans-serif;\n}\n  /* THEME */\n.router-link-exact-active {\n    color: rgb(96,175,65);\n}\n.button-green {\n    background-color: rgb(96,175,65) !important;\n}\n:hover.button-green {\n    background-image: linear-gradient(to right, rgb(96,175,65), rgb(86, 206, 38));\n}\n.text-coral {\n      color: rgb(241,82,46);\n}\n.bg-coral {\n      background-color: rgb(241,82,46);\n}\n.bg-coral-grad {\n    background-color: rgb(241,82,46);\n    background: linear-gradient(90deg, rgba(241,82,46,1) 0%, rgba(250,48,0,1) 100%);\n}\n.bg-teal {\n    background-color: rgb(29,72,79);\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -6066,19 +6070,20 @@ var render = function () {
                           "\n              My experience and educational background has taught me my greatest strength, "
                         ),
                         _c("strong", [_vm._v("how to learn.")]),
-                        _vm._v(" I continously inspire to write "),
+                        _vm._v(" I continuously inspire to write "),
                         _c(
                           "span",
                           { staticClass: "underline decoration-dotted" },
                           [_vm._v("dryer code")]
                         ),
                         _vm._v(
-                          ", discover mind altering new solutions to problems 🤯 and advance alongisde the technical industry. I am excited to continue my journey with growing company's that value team work, mentorship and agile software development. Check out my "
+                          ", discover mind altering new solutions to problems 🤯 and advance alongside the technical industry. I am excited to continue my journey with growing company's that value team work, mentorship and agile software development. Check out my "
                         ),
                         _c(
                           "router-link",
                           {
                             staticClass: "text-coral",
+                            staticStyle: { color: "rgb(241,82,46)" },
                             attrs: { to: { name: "resume" } },
                           },
                           [_vm._v("resume")]
@@ -6135,7 +6140,7 @@ var render = function () {
                   {
                     key: image,
                     staticClass:
-                      "\n              lg:max-h-80\n              max-w-lg\n              py-1\n              px-2\n              sm:p-3\n              rounded-lg\n              shadow-xl\n              xl:hover:scale-105\n            ",
+                      "\n              lg:max-h-80\n              max-w-lg\n              py-1\n              px-2\n              sm:p-3\n              rounded-lg\n              shadow-xl\n              xl:hover:scale-105\n              max-h-max \n            ",
                   },
                   [
                     _c("img", {
@@ -6250,6 +6255,9 @@ var render = function () {
                         {
                           staticClass:
                             "font-bold text-white py-3 px-10 rounded button-green",
+                          staticStyle: {
+                            "background-color": "rgb(96,175,65) !important",
+                          },
                           attrs: { target: "_blank", href: project.url },
                         },
                         [_vm._v("View →")]
@@ -6304,7 +6312,7 @@ var staticRenderFns = [
                     "div",
                     {
                       staticClass:
-                        "content float-left py-4 px-5 my-6 text-center sm:text-left",
+                        "content float-left py-4 px-5 my-6 text-left",
                     },
                     [
                       _c(
@@ -6401,6 +6409,7 @@ var staticRenderFns = [
         {
           staticClass:
             "\n                  text-sm\n                  xl:text-base\n                  font-semibold\n                  md:flex md:flex-wrap md:items-center\n                  text-coral\n                ",
+          staticStyle: { color: "rgb(241,82,46)" },
         },
         [
           _vm._v(
@@ -6456,7 +6465,7 @@ var staticRenderFns = [
         _vm._v(
           "\n          My mental dedication and obsessive attention to detail enables me to\n          find\n          "
         ),
-        _c("span", { staticClass: "text-white bg-red-600 p-1" }, [
+        _c("span", { staticClass: "text-white p-1 bg-coral" }, [
           _vm._v("creative solutions"),
         ]),
         _vm._v("\n          to complex problems.\n        "),
@@ -6487,6 +6496,7 @@ var staticRenderFns = [
         _c("span", { staticClass: "relative" }, [
           _c("span", {
             staticClass: "block absolute -inset-1 -skew-y-2 bg-coral",
+            staticStyle: { "background-color": "rgb(241,82,46)" },
             attrs: { "aria-hidden": "true" },
           }),
           _vm._v(" "),
@@ -6616,7 +6626,7 @@ var staticRenderFns = [
     return _c(
       "div",
       {
-        staticClass: "hidden sm:block max-w-5xl m-auto sm:mb-40",
+        staticClass: "max-w-5xl m-auto sm:mb-40",
         staticStyle: { "z-index": "100" },
         attrs: { "data-aos": "zoom-out-up", "data-aos-duration": "2000" },
       },
