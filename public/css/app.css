@@ -428,6 +428,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .mb-5 {
   margin-bottom: 1.25rem;
 }
+.ml-4 {
+  margin-left: 1rem;
+}
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -448,6 +451,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 .mb-2 {
   margin-bottom: 0.5rem;
+}
+.mb-40 {
+  margin-bottom: 10rem;
 }
 .mb-4 {
   margin-bottom: 1rem;
@@ -636,9 +642,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .p-4 {
   padding: 1rem;
 }
-.p-7 {
-  padding: 1.75rem;
-}
 .p-8 {
   padding: 2rem;
 }
@@ -662,9 +665,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
-.px-6 {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 .py-3 {
   padding-top: 0.75rem;
@@ -689,6 +692,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 .py-7 {
   padding-top: 1.75rem;
@@ -948,9 +955,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   }
 }
 @media (min-width: 1280px) {
-  .xl\:mb-40 {
-    margin-bottom: 10rem;
-  }
   .xl\:max-w-6xl {
     max-width: 72rem;
   }

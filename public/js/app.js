@@ -2578,6 +2578,12 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   methods: {
@@ -2843,7 +2849,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=Geo&family=Open+Sans:wght@800&display=swap);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* FONTS */\n.geo {\n    font-family: 'Geo', sans-serif;\n}\n.text-header {\n    font-family: 'Open Sans', sans-serif;\n}\n/* THEME */\n.router-link-exact-active {\n    color: rgb(96,175,65);\n}\n.button-green {\n    background-color: rgb(96,175,65) !important;\n}\n:hover.button-green {\n    background-image: linear-gradient(to right, rgb(96,175,65), rgb(86, 206, 38));\n}\n.text-coral {\n      color: rgb(241,82,46);\n}\n.bg-coral {\n      background-color: rgb(241,82,46);\n}\n.bg-coral-grad {\n    background-color: rgb(241,82,46);\n    background: linear-gradient(90deg, rgba(241,82,46,1) 0%, rgba(250,48,0,1) 100%);\n}\n.bg-teal {\n    background-color: rgb(29,72,79);\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* FONTS */\n.geo {\n    font-family: 'Geo', sans-serif;\n}\n.text-header {\n    font-family: 'Open Sans', sans-serif;\n}\n/* THEME */\n.router-link-exact-active {\n    color: rgb(96,175,65);\n}\n.button-green {\n    background-color: rgb(96,175,65) !important;\n}\n:hover.button-green {\n    background-image: linear-gradient(to right, rgb(96,175,65), rgb(86, 206, 38));\n}\n.text-coral {\n      color: rgb(241,82,46);\n}\n.bg-coral {\n      background-color: rgb(241,82,46);\n}\n.bg-coral-grad {\n    background-color: rgb(241,82,46);\n    background: linear-gradient(90deg, rgba(241,82,46,1) 0%, rgba(250,48,0,1) 100%);\n}\n.bg-teal {\n    background-color: rgb(29,72,79);\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -6089,7 +6095,7 @@ var render = function () {
                   "div",
                   {
                     staticClass:
-                      "flex flex-wrap items-center col-span-2 p-7 md:mt-0 mt-44",
+                      "flex flex-wrap items-center col-span-2 p-8 md:mt-0 mt-44",
                   },
                   [
                     _vm._m(2),
@@ -6128,7 +6134,7 @@ var render = function () {
                   ]
                 ),
                 _vm._v(" "),
-                _c("div", { staticClass: "col-span-3 flex justify-end px-6" }, [
+                _c("div", { staticClass: "col-span-3 flex justify-end px-8" }, [
                   _c(
                     "span",
                     {
@@ -6417,12 +6423,12 @@ var staticRenderFns = [
           [
             _vm._v("\n                  Software Developer & "),
             _c("br", { staticClass: "md:hidden" }),
-            _vm._v(">Certified Scrum Master\n                "),
+            _vm._v("Certified Scrum Master\n                "),
           ]
         ),
         _vm._v(" "),
         _c("img", {
-          staticClass: "h-16 md:h-12",
+          staticClass: "h-16 md:h-12 ml-4",
           attrs: { src: "/images/icons/csm.png", alt: "csm badge" },
         }),
       ]),
@@ -6714,13 +6720,18 @@ var staticRenderFns = [
     return _c(
       "div",
       {
-        staticClass: "max-w-5xl m-auto mb-20 xl:mb-40 px-2",
+        staticClass: "max-w-5xl m-auto mb-40 px-2",
         staticStyle: { "z-index": "100" },
       },
       [
         _c("img", {
           staticClass: "min-h-content",
-          attrs: { src: "/images/resume.png", alt: "resume" },
+          attrs: {
+            "data-aos": "zoom-out-up",
+            "data-aos-duration": "1000",
+            src: "/images/resume.png",
+            alt: "resume",
+          },
         }),
       ]
     )

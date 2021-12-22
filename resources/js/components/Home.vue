@@ -66,7 +66,7 @@
               />
             </div>
             <div
-              class="flex flex-wrap items-center col-span-2 p-7 md:mt-0 mt-44"
+              class="flex flex-wrap items-center col-span-2 p-8 md:mt-0 mt-44"
             >
               <div>
                 <h1
@@ -76,10 +76,10 @@
                 </h1>
                 <div class="flex items-center mb-5">
                   <h2 class="text-base md:text-lg lg:text-xl font-semibold">
-                    Software Developer & <br class="md:hidden">>Certified Scrum Master
+                    Software Developer & <br class="md:hidden">Certified Scrum Master
                   </h2>
                   <img
-                    class="h-16 md:h-12"
+                    class="h-16 md:h-12 ml-4"
                     src="/images/icons/csm.png"
                     alt="csm badge"
                   />
@@ -110,7 +110,7 @@
               </div>
             </div>
             <div
-              class="col-span-3 flex justify-end px-6"
+              class="col-span-3 flex justify-end px-8"
             >
               <span class="font-bold text-white py-3 px-7 rounded button-green"
                 ><router-link :to="{ name: 'resume' }"
