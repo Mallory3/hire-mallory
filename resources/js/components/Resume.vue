@@ -7,7 +7,7 @@
       color="#CFCFCF" :bg="true">
     </vue-particles>
     <div class="max-w-5xl m-auto pt-10 mb-10 flex justify-center">
-      <button class="p-3 button-green text-white rounded" @click="onClick()">
+      <button class="p-3 button-green bg-green-500 text-white rounded" @click="onClick()">
         <i class="fa fa-download"></i> Download Resume
       </button>
     </div>
@@ -16,7 +16,7 @@
       data-aos-easing="ease-out-cubic"
       data-aos-duration="2000"
       style="z-index: 100"
-      class="max-w-5xl m-auto mb-40"
+      class="hidden sm:block max-w-5xl m-auto sm:mb-40"
     >
       <img class="min-h-content" src="/images/resume.png" alt="resume" />
     </div>
